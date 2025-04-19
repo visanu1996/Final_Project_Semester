@@ -10,10 +10,11 @@ Originally, this project included:
 - A mobile application written in React Native. (currently lost)
 - A web interface for near-real-time monitoring. (basic prototype)
 
-⚠️ Note: Most of the mobile app code was lost and is not included in this repository.
+⚠️ Note: Most of the mobile app code was lost and is not included in this repository. (This project was build in 2020)
 
-Features (At the Time of Completion)
+Features (At the Time of Completion in Year : 2020)
 - Monitor near-real-time temperature and humidity.
+- Monitors amp consumption to detect and alert when connected hardware (e.g., cooler, UVA/UVB light, water pump) is not functioning properly.
 - Switch between manual and automatic control modes via mobile applicaiton.
 - Web dashboard for viewing data. (basic functionality)
 - Mobile control app. (planned but missing)
