@@ -1,6 +1,5 @@
 # Final_Project_Semester
 
-Smart Vivarium
 Smart Vivarium is an IoT-based system designed to help enthusiasts care for exotic pets — such as frogs — especially in environments that don't match their natural habitat.
 
 
